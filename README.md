@@ -43,3 +43,11 @@
 | 미션 2 | 좌표 계산기 | [(레포)](https://github.com/talmood/java-coordinate-playground) | [(PR)](https://github.com/talmood/java-coordinate-playground/pulls) |
 | 미션 3 |   로또   |         [(레포)](https://github.com/talmood/java-lotto)         |         [(PR)](https://github.com/talmood/java-lotto/pulls)         |
 | 미션 4 |  블랙잭   |       [(레포)](https://github.com/talmood/java-blackjack)       |       [(PR)](https://github.com/talmood/java-blackjack/pulls)       |
+
+
+<br>
+
+## 참고 도서
+
+- [내 코드가 그렇게 이상한가요?](https://www.yes24.com/Product/Goods/119287779?pid=123487&cosemkid=go16868015589416271&gad_source=1&gclid=Cj0KCQjwir2xBhC_ARIsAMTXk84IBuOVXIKg0dzU_cwWJx_WYW9kAaBMeieDriYuL87fQvhCCHo_QiIaAg9IEALw_wcB)
+- [객체지향의 사실과 오해](https://www.yes24.com/Product/Goods/18249021)
