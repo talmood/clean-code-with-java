@@ -25,7 +25,7 @@
 
 | ![](https://github.com/haero77.png?size=80) | ![](https://github.com/sc0116.png?size=80) |                                        | ![](https://github.com/lgm1007.png?size=80) | ![](https://github.com/rueun.png?size=80) |                                      | ![](https://github.com/audrb96.png?size=80) |
 |:-------------------------------------------:|:------------------------------------------:|:--------------------------------------:|:-------------------------------------------:|:-----------------------------------------:|--------------------------------------|:-------------------------------------------:|
-|    [선호(해로)](https://github.com/haero77)     |    [승철(짱구)](https://github.com/sc0116)     | [민정](https://github.com/monsteralover) |      [규명](https://github.com/lgm1007)       |      [은정](https://github.com/rueun)       | [현기](https://github.com/shonhyeongy) |      [명규](https://github.com/audrb96)       |
+|    [선호(해로)](https://github.com/haero77)     |    [승철(짱구)](https://github.com/sc0116)     | [민정](https://github.com/monsteralover) |      [규명(레몽)](https://github.com/lgm1007)       |      [은정](https://github.com/rueun)       | [현기](https://github.com/shonhyeongy) |      [명규(킬리안)](https://github.com/audrb96)       |
 
 <br>
 
